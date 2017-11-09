@@ -2,7 +2,7 @@
 
 Melp es una empresa enfocada en mostrar información sobre los mejores restaurantes de la ciudad, la empresa cuenta con una aplicación móvil bastante exitosa y planean expandir su mercado a través de una plataforma web.
 
-Para llevar a cabo su plan de expanción se dio como información un listado de datos en JSON, con el fin de crear una pequeña plataforma.
+Para llevar a cabo su plan de expansión se dio como información un listado de datos en JSON, con el fin de crear una pequeña plataforma.
 
 En consecuencia, se creó un directorio con algunas bonificaciones para iniciar un plan de negocios.
 
