@@ -10,7 +10,7 @@ En consecuencia, se creó un directorio con algunas bonificaciones para iniciar 
 
 Primero, se tomó el listado de referencia para crear un radio de restaurantes en la Ciudad de México y en la colonia Anzures.
 
-Luego se creó una lista nueva con información, se agregaron scripts de java para mostrar al usuario una guía visual mínimal y con opciones para desarrollo.
+Luego se creó una lista nueva con información, se agregaron scripts de java para mostrar al usuario una guía visual mínimal con opciones para desarrollo.
 
 Finalmente se agregaron la siguientes bonificaciones:
 
