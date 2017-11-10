@@ -31,11 +31,11 @@ Es posible consultar el resultado en la siguiente liga provisional [http://bit.l
 
 ### El estilo CSS:
 
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hme6hM].
+Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2zy1laX].
 
 ### El script JS:
 
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hme6hM].
+Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2jhuFMo].
 
 ### Listado de JSON
 
