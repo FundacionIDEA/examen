@@ -27,7 +27,7 @@ Finalmente se agregaron la siguientes bonificaciones:
 
 ### El código de hipertexto:
 
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hme6hM].
+Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2zM8KUF].
 
 ### El estilo CSS:
 
