@@ -29,17 +29,17 @@ Finalmente se agregaron la siguientes bonificaciones:
 
 Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2zM8KUF].
 
-### El estilo CSS:
+### Los estilos CSS:
 
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2zy1laX].
+Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hpiMnj] [http://bit.ly/2zwQqhy]
 
 ### El script JS:
 
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2jhuFMo].
+Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hkxBE8].
 
 ### Listado de JSON
 
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hme6hM].
+Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2mhbLXs].
 
 ### El demo
 
