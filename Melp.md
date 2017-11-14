@@ -25,22 +25,6 @@ Finalmente se agregaron la siguientes bonificaciones:
 
 - 2.- Igualmente, si hubiere fallas de la visibilidad, se recomienda cambiar la conexión de red o usar la Navegación Privada con Protección de Rastreo.
 
-### El código de hipertexto:
-
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2zM8KUF].
-
-### Los estilos CSS:
-
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hpiMnj] [http://bit.ly/2zwQqhy]
-
-### El script JS:
-
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2hkxBE8].
-
-### Listado de JSON
-
-Es posible consultar el resultado en la siguiente liga provisional [http://bit.ly/2mhbLXs].
-
 ### El demo
 
 Es posible consultar el resultado en la siguiente liga provisional[http://bit.ly/2zqVN2e].
